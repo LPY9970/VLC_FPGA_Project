@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_tx_top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_tx_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1,999,999,983 ps"></ZoomStartTime>
+      <ZoomEndTime time="2,000,000,004 ps"></ZoomEndTime>
+      <Cursor1Time time="2,000,000,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="268"></NameColumnWidth>
+      <ValueColumnWidth column_width="137"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/tb_tx_top/sys_clk_p" type="logic">
+      <obj_property name="ElementShortName">sys_clk_p</obj_property>
+      <obj_property name="ObjectShortName">sys_clk_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tx_top/sys_clk_n" type="logic">
+      <obj_property name="ElementShortName">sys_clk_n</obj_property>
+      <obj_property name="ObjectShortName">sys_clk_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tx_top/sys_reset" type="logic">
+      <obj_property name="ElementShortName">sys_reset</obj_property>
+      <obj_property name="ObjectShortName">sys_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tx_top/UART_RX_PIN" type="logic">
+      <obj_property name="ElementShortName">UART_RX_PIN</obj_property>
+      <obj_property name="ObjectShortName">UART_RX_PIN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tx_top/VLC_TX_PIN" type="logic">
+      <obj_property name="ElementShortName">VLC_TX_PIN</obj_property>
+      <obj_property name="ObjectShortName">VLC_TX_PIN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tx_top/VLC_TX_PIN2" type="logic">
+      <obj_property name="ElementShortName">VLC_TX_PIN2</obj_property>
+      <obj_property name="ObjectShortName">VLC_TX_PIN2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tx_top/locked" type="logic">
+      <obj_property name="ElementShortName">locked</obj_property>
+      <obj_property name="ObjectShortName">locked</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tx_top/LED1" type="logic">
+      <obj_property name="ElementShortName">LED1</obj_property>
+      <obj_property name="ObjectShortName">LED1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tx_top/LED2" type="logic">
+      <obj_property name="ElementShortName">LED2</obj_property>
+      <obj_property name="ObjectShortName">LED2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tx_top/LED3" type="logic">
+      <obj_property name="ElementShortName">LED3</obj_property>
+      <obj_property name="ObjectShortName">LED3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tx_top/LED4" type="logic">
+      <obj_property name="ElementShortName">LED4</obj_property>
+      <obj_property name="ObjectShortName">LED4</obj_property>
+   </wvobject>
+</wave_config>
